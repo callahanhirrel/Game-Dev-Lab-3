@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{3C820B73-19FC-5D61-42DB-D7B74CC74BAF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FPS All-In-One/FirstPersonAIO/FirstPersonAIO.cs">
+    <Files>
+      <File FileName="Assets/FPS All-In-One/README.txt" Line="1" Column="1" />
+      <File FileName="Assets/FPS All-In-One/FirstPersonAIO/FirstPersonAIO.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
