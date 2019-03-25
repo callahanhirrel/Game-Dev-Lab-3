@@ -15,7 +15,7 @@ public class MainController : MonoBehaviour
         System.Random rand = new System.Random();
         List<GameObject> toDestroy = new List<GameObject>();
 
-        for (int i = 0; i < 59; i++)
+        for (int i = 0; i < 50; i++)
         {
             int index = rand.Next(chairs.Length);
             if (toDestroy.Contains(chairs[index]))

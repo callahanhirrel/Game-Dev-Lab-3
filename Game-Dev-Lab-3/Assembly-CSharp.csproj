@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\FPS All-In-One\DemoScene\MiscScripts\Doors.cs" />
     <Compile Include="Assets\FPS All-In-One\FirstPersonAIO\FirstPersonAIO.cs" />
+    <Compile Include="Assets\Scripts\EnemyController.cs" />
     <Compile Include="Assets\Scripts\MainController.cs" />
     <Compile Include="Assets\Table and chair\Standard Assets\Effects\CinematicEffects(ALPHA)\AntiAliasing\AntiAliasing.cs" />
     <Compile Include="Assets\Table and chair\Standard Assets\Effects\CinematicEffects(BETA)\Common\ImageEffectHelper.cs" />
